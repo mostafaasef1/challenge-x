@@ -1,7 +1,3 @@
-# Challenge X
-
-Challenge+X is a hybrid, hackathon-style, eight-week innovation program that connects students with organizations to solve real-world problems across healthcare, finance, technology, engineering, and beyond.
-
 # Autonomous FMCW GPR Wildlife Detection & Relocation Rover
 
 An all-terrain autonomous sub-surface scanning rover developed for the Challenge X competition. The system is designed to locate buried wildlife—specifically native Virginia Eastern Woodland Box Turtles—on active construction sites without disrupting construction workflows. 
